@@ -1,8 +1,9 @@
 # TOOL_penpot_desktop
 
 
-```bash
-scoop install GraphicsMagick
+```powershell
+scoop install GraphicsMagick nodejs
+# Restart powershell
 npm install -g nativefier
 nativefier https://design.penpot.app
 ```
